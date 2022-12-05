@@ -1,0 +1,4 @@
+*{margin:0;padding:0;box-sizing: border-box;list-style: none;}
+
+.position-box{position:relative;margin: 0 auto;width:90%;}
+.position-box div{position:absolute;transition: all 0.3s ease;}
